@@ -5,7 +5,7 @@
 [![Ollama](https://img.shields.io/badge/Ollama-White?style=for-the-badge&logo=ollama&logoColor=black)](https://ollama.com/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
 
-An advanced, production-ready Local SQL Agent built with **LangGraph**, **Ollama (Llama 3.1)**, **FastAPI**, and **SQLAlchemy**. This agent translates natural language queries into secure, read-only SQL commands, executes them asynchronously on your database, and explains the results back to the user in natural language—all running locally with zero data sent to external APIs like OpenAI.
+Local SQL Agent built with **LangGraph**, **Ollama (Llama 3.1)**, **FastAPI**, and **SQLAlchemy**. This agent translates natural language queries into secure, read-only SQL commands, executes them asynchronously on your database, and explains the results back to the user in natural language—all running locally with zero data sent to external APIs like OpenAI.
 
 ## ✨ Features
 
